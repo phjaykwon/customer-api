@@ -9,7 +9,7 @@ Customer API calls are contained in views.py.
 
 # Index
 
-`/institutions` `[GET, POST]` <br></br>
+`/institutions`    `[GET, POST]` <br></br>
 `/institutions/{institution_id}` [GET] <br></br>
 `/institutions/{institution_id}/login` [POST] <br></br>
 `/institutions/{institution_id}/logins` [POST] <br></br>
