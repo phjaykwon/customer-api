@@ -10,11 +10,11 @@ Customer API calls are contained in views.py.
 # Index
 
 /institutions [GET, POST] <br></br>
-/institutions/{institution_id} [GET]
-/institutions/{institution_id}/login [POST]
-/institutions/{institution_id}/logins [POST]
-/accounts [GET]
-/logins/{login_id}/accounts [GET, POST]
-/accounts/{account_id} [GET, PUT, DELETE]
-/accounts/{account_id}/transactions [GET, POST]
-/logins/{login_id} [PUT] 
+/institutions/{institution_id} [GET] <br></br>
+/institutions/{institution_id}/login [POST] <br></br>
+/institutions/{institution_id}/logins [POST] <br></br>
+/accounts [GET] <br></br>
+/logins/{login_id}/accounts [GET, POST] <br></br>
+/accounts/{account_id} [GET, PUT, DELETE] <br></br>
+/accounts/{account_id}/transactions [GET, POST] <br></br>
+/logins/{login_id} [PUT] <br></br>
